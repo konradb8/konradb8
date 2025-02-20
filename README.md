@@ -1,7 +1,7 @@
 
    # 👋 Hi, I’m Konrad Bugaj
    ### Student of Computational Engineering at AGH University in Cracow
-- 🌱 I’m currently learning *Python*
+
 - 📫 How to reach me: konradbugaj547@gmail.com
 <div id="badges">
 <a href="https://www.linkedin.com/in/konrad-bugaj-25158831a">
