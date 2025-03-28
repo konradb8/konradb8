@@ -23,7 +23,7 @@
     <a href="https://isocpp.org/"> 
       <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="40" height="40" id="x"/>&nbsp;
     </a> 
-    <a href="https://isocpp.org/">
+    <a href="https://www.linux.org/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     </a> 
     <a href="https://www.postgresql.org/">
