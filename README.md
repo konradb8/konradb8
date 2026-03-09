@@ -1,6 +1,6 @@
 
    # 👋 Hi, I’m Konrad Bugaj
-   ### Student of Computational Engineering at AGH University in Cracow
+   ### Student of Computer Science in Engineering at AGH University in Cracow
 
 - 📫 How to reach me: konradbugaj547@gmail.com
 <div id="badges">
